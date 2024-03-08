@@ -39,12 +39,12 @@ STEP 6: Use zscore of to remove outliers
 
             9) d.isnull().sum()
 
-            ![image](https://github.com/Hyoudouisse/exno1/assets/142372168/8055139e-6283-47c9-8efa-7b16ef185bad)
 
-            ![image](https://github.com/Hyoudouisse/exno1/assets/142372168/14bcabdc-3457-465e-a4ab-94476fa9c73c)
+![image](https://github.com/Hyoudouisse/exno1/assets/142372168/8055139e-6283-47c9-8efa-7b16ef185bad)
 
-            ![image](https://github.com/Hyoudouisse/exno1/assets/142372168/46a7607f-6f3a-40cd-9e42-dd97bf71f523)
+![image](https://github.com/Hyoudouisse/exno1/assets/142372168/14bcabdc-3457-465e-a4ab-94476fa9c73c)
 
+![image](https://github.com/Hyoudouisse/exno1/assets/142372168/46a7607f-6f3a-40cd-9e42-dd97bf71f523)
 # Result
           we sucessfully read the given file and goen our output  
 
